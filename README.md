@@ -5,7 +5,7 @@ While OS 6 introduced improved WebKit integration, this project focuses on **pur
 
 ---
 
-## ✨ Enhancements in OS 6 Version
+##  Enhancements in OS 6 Version
 
 ### 1. Touch Support
 - Buttons handle both **trackball/keyboard navigation** and **touch events** (`TouchEvent.CLICK`)
